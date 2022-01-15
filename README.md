@@ -33,6 +33,6 @@ ex:- python iptracker.py -v 127.0.0.1
 ## USAGE OPTIONS [Termux] :
 
 __SCAN__ :
-- From this option you can start tracking ip ocation
+- From this option you can start tracking ip location
 
 
