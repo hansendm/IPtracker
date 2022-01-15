@@ -18,16 +18,16 @@
 * `pkg install git -y`
 * `pip install lolcat`
 * `pip install requests`
-* `git clone https://github.com/noob-hackers/ipdrone`
+* `git clone https://github.com/hansendm/IPtracker`
 * `cd $HOME`
 * `ls`
-* `cd ipdrone`
+* `cd iptracker`
 * `ls`
-* `python ipdrone.py -v (your victim ip here)`
+* `python iptracker.py -v (target ip here)`
 ```
-ex:- python ipdrone.py -v 127.0,0.1
+ex:- python iptracker.py -v 127.0.0.1
 
-Hurray... you got his location with some more information
+
 
 ```
 ## USAGE OPTIONS [Termux] :
